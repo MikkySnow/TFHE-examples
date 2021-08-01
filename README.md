@@ -1,3 +1,3 @@
 # THFE Code Samples
 
-Samples of usage THFE – library for Fully Homomorphic Encryption
+Samples how to use THFE – library for Fully Homomorphic Encryption
