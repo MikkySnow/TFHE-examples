@@ -1,3 +1,3 @@
-# THFE Code Samples
+# TFHE Code Samples
 
-Samples how to use THFE – library for Fully Homomorphic Encryption
+Samples how to use TFHE – library for Fully Homomorphic Encryption
